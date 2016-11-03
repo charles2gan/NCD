@@ -13,3 +13,7 @@ implementation uses threads. The output is triangular matrix whit two columns: t
 first column corresponds to the NCD values and the second to the order. This 
 implementation is under development.
  
+## Install
+
+You need to have 7zip in your system due to both programs use 7za command. It is not
+spected to work in Windows.
