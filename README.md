@@ -12,6 +12,14 @@ calculating the NCD distance among all the .bin/.exe elements of the folder. Thi
 implementation uses threads. The output is triangular matrix whit two columns: the 
 first column corresponds to the NCD values and the second to the order. This 
 implementation is under development.
+
+## Compressibility Rate
+
+You can also find a small script to calculate the compressibility rate in the bash
+folder. To run the script type:
+```
+sh CR.sh file
+```
  
 ## Install
 
