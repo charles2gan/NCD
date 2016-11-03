@@ -16,4 +16,4 @@ implementation is under development.
 ## Install
 
 You need to have 7zip in your system due to both programs use 7za command. It is not
-spected to work in Windows.
+expected to work in Windows.
